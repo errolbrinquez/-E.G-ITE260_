@@ -15,4 +15,4 @@ else:
     print("You exceeded your budget")
     
 print("Total expences: ",e)
-print("Remaining money: ",bud)(e)
+print("Remaining money: ",bud)
